@@ -1,0 +1,4 @@
+.idea/*
+*.directory
+__pycache__/*
+
